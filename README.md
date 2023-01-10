@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT (now for RWKV-4) note: WIP
 
 ![nanoGPT](assets/nanogpt.jpg)
 
